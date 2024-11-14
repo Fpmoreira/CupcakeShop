@@ -1,6 +1,6 @@
 # CupcakeShop
 
-Neste projeto irei desenvolver uma loja virtual de venda de cupcakes usando todo conhecimento adiquidirido durante os semestres no curso de Engenharia de Software.
+Neste projeto irei desenvolver uma loja virtual de venda de cupcakes usando todo conhecimento adiquirido durante os semestres no curso de Engenharia de Software.
 
 Matéria: Projeto Integrador Transdisciplinar em Engenharia de Software.
 
