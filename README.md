@@ -30,6 +30,6 @@ Neste projeto foram usadas as seguintes tecnologias:
 
 * [História do Usuário.pdf](https://github.com/user-attachments/files/17963883/Historia.do.Usuario.pdf)
 * [Diagrama de Histótia do Usuário e Classe.pdf](https://github.com/user-attachments/files/17963884/Diagrama.de.Histotia.do.Usuario.e.Classe.pdf)
-* 
+* [Estrutura de Tarefas de Execução.pdf](https://github.com/user-attachments/files/17971595/Estrutura.de.Tarefas.de.Execucao.pdf)
 * [Lógica de Fuincionamento.pdf](https://github.com/user-attachments/files/17963886/Logica.de.Fuincionamento.pdf)
 
